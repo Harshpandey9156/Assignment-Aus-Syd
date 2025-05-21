@@ -26,7 +26,7 @@ Users can browse upcoming events, and when they click "GET TICKETS", they're pro
 - **Axios** – For HTTP requests to scrape data
 - **Cheerio** – jQuery-like tool to parse HTML from scraped pages
 - **Node-Cron** – For scheduling regular scraping tasks
-- **Vanilla JS + HTML/CSS** – Frontend with no frameworks
+- **Vanilla JS + HTML/CSS** 
 
 ---
 
